@@ -1,0 +1,67 @@
+body {
+	font-family: "Verdana";
+	font-size: 14px;
+	min-width: 400px;
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 20px;
+}
+
+h1, h2, h3{
+	font-family: "Georgia";
+}
+
+a { 
+	color: #C63; 
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+a:hover {
+	color: #F63; 
+}
+
+
+.post {
+	padding: 2px 2px 2px 2px;
+	background-color: #F4EEDD;
+	margin-bottom: 20px;
+}
+
+.post_details {
+	font-size: 10px;
+}
+
+
+.path {
+	font-weight: bolder;
+}
+
+.topic {
+	padding: 3px 3px 6px 10px;
+	background-color: #EEEEEE;
+	margin-bottom: 20px;
+}
+
+.topic_details {
+	font-size: 10px;
+}
+
+.selected {
+	font-weight: bolder;
+}
+
+#nav {
+	float: right;
+	margin: 18px;
+	text-align: right;
+}
+
+#name {
+	float: left;
+}
+
+#container {
+	clear: both;
+}
